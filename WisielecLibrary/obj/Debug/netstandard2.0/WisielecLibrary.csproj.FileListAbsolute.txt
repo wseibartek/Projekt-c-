@@ -1,0 +1,8 @@
+C:\Users\marys\Downloads\WisielecGra\WisielecLibrary\bin\Debug\netstandard2.0\WisielecLibrary.deps.json
+C:\Users\marys\Downloads\WisielecGra\WisielecLibrary\bin\Debug\netstandard2.0\WisielecLibrary.dll
+C:\Users\marys\Downloads\WisielecGra\WisielecLibrary\bin\Debug\netstandard2.0\WisielecLibrary.pdb
+C:\Users\marys\Downloads\WisielecGra\WisielecLibrary\obj\Debug\netstandard2.0\WisielecLibrary.csprojAssemblyReference.cache
+C:\Users\marys\Downloads\WisielecGra\WisielecLibrary\obj\Debug\netstandard2.0\WisielecLibrary.AssemblyInfoInputs.cache
+C:\Users\marys\Downloads\WisielecGra\WisielecLibrary\obj\Debug\netstandard2.0\WisielecLibrary.AssemblyInfo.cs
+C:\Users\marys\Downloads\WisielecGra\WisielecLibrary\obj\Debug\netstandard2.0\WisielecLibrary.dll
+C:\Users\marys\Downloads\WisielecGra\WisielecLibrary\obj\Debug\netstandard2.0\WisielecLibrary.pdb

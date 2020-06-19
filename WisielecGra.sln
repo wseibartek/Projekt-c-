@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WisielecGra", "WisielecGra\WisielecGra.csproj", "{BD8F8379-2C2E-4A41-86D4-3F1A177236DF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D3A75F6D-02A3-43B1-A572-7AB2AF619786} = {D3A75F6D-02A3-43B1-A572-7AB2AF619786}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WisielecLibrary", "WisielecLibrary\WisielecLibrary.csproj", "{D3A75F6D-02A3-43B1-A572-7AB2AF619786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD8F8379-2C2E-4A41-86D4-3F1A177236DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8F8379-2C2E-4A41-86D4-3F1A177236DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8F8379-2C2E-4A41-86D4-3F1A177236DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8F8379-2C2E-4A41-86D4-3F1A177236DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A75F6D-02A3-43B1-A572-7AB2AF619786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A75F6D-02A3-43B1-A572-7AB2AF619786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A75F6D-02A3-43B1-A572-7AB2AF619786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A75F6D-02A3-43B1-A572-7AB2AF619786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B36295E7-F94E-47F1-BE9A-52C7F39C35F0}
+	EndGlobalSection
+EndGlobal
