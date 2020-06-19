@@ -72,7 +72,7 @@ namespace WisielecLibrary
             {
                 if(Game.Statistics.IsInTop10(CurrentGameStats))
                 {
-                    Console.WriteLine("Podaj imie aby wpisac cie do najlepszych graczy: ");
+                    Console.WriteLine("\nPodaj imie aby wpisac cie do najlepszych graczy: ");
                     Game.Statistics.AddPlayer(Console.ReadLine(), CurrentGameStats);
                 }
             }
