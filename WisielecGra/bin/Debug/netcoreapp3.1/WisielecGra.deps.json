@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WisielecGra/1.0.0": {
+        "dependencies": {
+          "WisielecLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WisielecGra.dll": {}
+        }
+      },
+      "WisielecLibrary/1.0.0": {
+        "runtime": {
+          "WisielecLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WisielecGra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WisielecLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
