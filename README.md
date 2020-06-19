@@ -5,12 +5,11 @@ Prosta gra konsolowa Wisielec
 Do Dyspozycji mamy menu z następującymi opcjami do wyboru:
 
 
-==============
 1. Rozpocznij gre
 2. Pokaż historie gier ( top 10 )
 3. Dodaj słowo
 4. Wyjście
-==============
+
 
 
 Po menu poruszamy wpisując odpowiednie cyfry : 1,2,3,4
@@ -24,14 +23,10 @@ Po rozpoczęciu gry wyświetla nam się menu za pomocą którego możemy sami zd
 literkę czy może odgadnąć całe hasło. Niżej wyświetlane jest hasło do odgadnięcia.
 
 
-================
 1. Podaj litere
 2. Zgadnij hasło
-================
 
-
-___ ___ __ ___ ___ ___ ___ ___
-
+___   ___   ___   ___   ___   ___   ___   ___
 
 
 Wybierz akcje: 
